@@ -1,6 +1,4 @@
 # Xcv
-
-# Free_2
 ++NIKMATIN INI SC FREE OKEH++
 
 git clone https://github.com/KALLXD/Xcv
