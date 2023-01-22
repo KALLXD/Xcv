@@ -3,7 +3,7 @@
 # Free_2
 ++NIKMATIN INI SC FREE OKEH++
 
-git clone https://github.com/KALLXD/Free_2
+git clone https://github.com/KALLXD/Xcv
 
 cd V2_free
 
